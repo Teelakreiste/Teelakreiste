@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/Teelakreiste">Teelakreiste</a> 🦥</h1>
+<h1 align="center">Hello, I'm <a href="https://github.com/Teelakreiste">Teelakreiste</a> 🦥</h1>
 </div>
 <img src="Teelakreiste.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/teelakreiste?style=social)](https://github.com/Teelakreiste)
 
-## Sobre mi
+## About me
  
 - 👨‍🎓 Computer Engineering Student.
 - ❤️ Passion for games, technology and science.
